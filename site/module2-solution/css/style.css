@@ -19,8 +19,8 @@ h1 {
   text-align: center;
   background-color: aqua;
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: -3px;
+  right: -3px;
   border: 1px solid black;
   width: 100px;
   border-radius: 5px;
@@ -43,8 +43,8 @@ p {
   background-color: beige;
   border: 1px solid black;
   padding: 10px;
-  padding-top: 25px;
-  margin: 3px;
+  padding-top: 20px;
+  margin: 5px;
   border-radius: 5px;
 }
 
