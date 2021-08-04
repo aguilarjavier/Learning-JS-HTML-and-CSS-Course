@@ -1,0 +1,27 @@
+body {
+  background-color: lightgrey;
+}
+
+#header-nav {
+  padding: 20px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+#Chicken-Section {
+  height: 1000px;
+  background-color: gray;
+}
+
+#Chicken-Section div {
+  padding: 20px;
+  font-size: 1.5em;
+}
+
+.nav-item {
+  text-align: center;
+  background-color: white;
+  border: 1px solid black;
+}
