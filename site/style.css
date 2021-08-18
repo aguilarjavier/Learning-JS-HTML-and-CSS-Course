@@ -30,6 +30,27 @@ p {
   padding: 5px;
   height: 300px;
   border: 1px solid black;
+  text-align: center;
+  top: 50%;
+}
+
+.Module {
+  position: relative;
+}
+
+.Module p {
+  top: 50%;
+  left: 50%;
+  margin-right: auto;
+}
+
+.Module p:hover {
+  background-color: lightblue;
+}
+
+.Module a:link,
+.Module a:visited {
+  text-decoration: none;
 }
 
 @media (min-width: 768px) {
