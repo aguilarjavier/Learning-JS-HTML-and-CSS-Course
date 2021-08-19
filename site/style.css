@@ -45,12 +45,29 @@ p {
 }
 
 .Module p:hover {
-  background-color: lightblue;
+  opacity: 0.7;
 }
 
 .Module a:link,
 .Module a:visited {
   text-decoration: none;
+}
+
+#Mod2 p {
+  background: url("imgs/module2.png") center no-repeat;
+}
+
+#Mod3 p {
+  background: url("imgs/module3.png") center no-repeat;
+}
+
+#Mod4 p {
+  background: url("imgs/module4.png") center no-repeat;
+}
+
+#Mod5 p {
+  background: url("imgs/module5.png") bottom no-repeat;
+  background-size: 350px 250px;
 }
 
 @media (min-width: 768px) {
